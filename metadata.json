@@ -1,0 +1,11 @@
+{
+  "name": "Decart Live Studio",
+  "description": "Realtime AI camera transformation studio powered by Decart, featuring live models, prompt editing, and reference presets.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
